@@ -1,3 +1,8 @@
+##提示：
+* 部分文件使用Git-LFS技术上传，如无法下载，用记事本打开‪ C:\Windows\System32\drivers\etc\hosts添加以下内容并保存
+** 151.101.24.133 raw.githubusercontent.com
+** 151.101.24.133 media.githubusercontent.com
+
 ## WriteDataset.exe使用说明：
 * example.xlsx已内置于本程序中 
 * 数据集中的数据顺序具有随机性，使用不同数据集生成的图表形状不同，但结构相同
